@@ -7,10 +7,10 @@
 
 ## 코딩테스트 준비
 - 인터넷 강의 
-  - [코딩테스트 광탈 방지 A to Z : JavaScript](../online-lecture.md)
+  - [코딩테스트 광탈 방지 A to Z : JavaScript](./online-lecture.md)
   - 인프런 강의
 - 개인 문제풀이 
-  - [프로그래머스 코딩테스트 고득점 Kit](../programmers.md) 
+  - [프로그래머스 코딩테스트 고득점 Kit](./programmers.md) 
   - 백준
 - 숨고 강의 (숨고 과외 찾기)
 - 코딩테스트 스터디 (인프런)
