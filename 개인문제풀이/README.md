@@ -1,7 +1,5 @@
 # 프로그래머스 코딩테스트 고득점 Kit
 
-https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
-
 ## 깊이/너비 우선 탐색(DFS/BFS)깊이/너비
 
 - 타겟 넘버

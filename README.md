@@ -1,7 +1,5 @@
 # 부스트캠프 준비 과정
 
-https://boostcamp.connect.or.kr/program_wm.html
-
 장기적으로 개발자 커리어를 보았을 때 당장 취업하는 것보다 부스트캠프 경험이 기대가치가 더 높다고 판단하여 부스트캠프 7기 함격을 위한 준비를 시작했습니다.
 
 ## 합격 요구사항
@@ -12,7 +10,7 @@ https://boostcamp.connect.or.kr/program_wm.html
 ## 코딩테스트 준비
 
 - 인터넷 강의
-  - [코딩테스트 광탈 방지 A to Z : JavaScript](./%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/%08README.md)
+  - [코딩테스트 광탈 방지 A to Z : JavaScript](./%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/README.md)
   - 인프런 강의
 - 개인 문제풀이
   - [프로그래머스 코딩테스트 고득점 Kit](./%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/README.md)
