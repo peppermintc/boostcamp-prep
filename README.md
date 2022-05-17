@@ -21,7 +21,7 @@
 ## 서류, 자기소개 준비
 
 - 노션 자기소개 페이지
-- github 커밋
+- [Github](https://github.com/peppermintc)
 - 블로그 작성
 
 ### 부스트 캠프 기대효과
