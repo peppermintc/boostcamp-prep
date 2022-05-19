@@ -49,7 +49,7 @@
 
   - SINCERITY 'b' 영상
 
-    - [부스트캠프] 부캠에 진심인 우리들의 이야기 SINCERITY ‘b’ Teaser 공개! - [리뷰]('./관련영상후기/media_youtube_1.md')
+    - [부스트캠프] 부캠에 진심인 우리들의 이야기 SINCERITY ‘b’ Teaser 공개! - [리뷰](./관련영상후기/media_youtube_1.md)
 
 ### 카카오톡 단체 톡방
 
