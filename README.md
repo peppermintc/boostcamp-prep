@@ -14,7 +14,7 @@
   - 코딩테스트 광탈 방지 A to Z : JavaScript - [공부 내용](./%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/README.md)
   - 인프런 강의
 - 개인 문제풀이
-  - 프로그래머스 코딩테스트 고득점 Kit - [공부 내용](./%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/README.md)
+  - 프로그래머스 - [공부 내용](./%EA%B0%9C%EC%9D%B8%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/README.md)
   - 백준
 - 숨고 강의 (숨고 과외 찾기)
 - 코딩테스트 스터디 (인프런)
