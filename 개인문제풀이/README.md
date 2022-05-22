@@ -19,8 +19,8 @@
 # 프로그래머스
 
 - 자릿수 더하기
-  - 5/20(금) 풀이성공
+  - 5/20(금) 풀이성공, 5/20(일) 풀이성공
 - 스킬트리
-  - 5/20(금) 풀이성공
+  - 5/20(금) 풀이성공, 5/20(일) 풀이성공
 - 방문 길이
-  - 5/20(금) 풀이성공, [다른 사람 좋은 풀이](https://velog.io/@leeeunbin/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B0%A9%EB%AC%B8-%EA%B8%B8%EC%9D%B4-JavaScript)
+  - 5/20(금) 풀이성공, , 5/20(일) 풀이성공, [다른 사람 좋은 풀이](https://velog.io/@leeeunbin/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B0%A9%EB%AC%B8-%EA%B8%B8%EC%9D%B4-JavaScript)
