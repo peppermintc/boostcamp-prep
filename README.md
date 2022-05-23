@@ -38,6 +38,7 @@
 - 부스트캠프 공식 홈페이지 리뉴얼 6/2 예상
 - 부스트캠프 웹 모바일 설명화 6/8
 - 부스트캠프 웹 모바일 6기 공식 Github Repository - https://github.com/boostcampwm-2021
+- 부스트캠프 웹 모바일 블로그 - 7기 모집 소식 https://m.blog.naver.com/boostcamp_official/222743073202
 
 ### 부스트캠프 후기
 
