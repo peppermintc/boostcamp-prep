@@ -38,10 +38,11 @@
 
     - [부스트캠프] 부캠에 진심인 우리들의 이야기 SINCERITY ‘b’ Teaser 공개! - [리뷰](./관련영상후기/media_youtube_1.md)
 
-### 카카오톡 단체 톡방 부스트캠프 7기 준비방 정보
+### 부스트캠프 웹 모바일 7기 정보
 
 - 부스트캠프 공식 홈페이지 리뉴얼 6/2 예상
 - 부스트캠프 웹 모바일 설명화 6/8
+- 부스트캠프 웹 모바일 7기 - 1차 온라인 코딩테스트 - 6/27(월)
 - 부스트캠프 웹 모바일 6기 공식 Github Repository - https://github.com/boostcampwm-2021
 - 부스트캠프 웹 모바일 블로그 - 7기 모집 소식 https://m.blog.naver.com/boostcamp_official/222743073202
 
